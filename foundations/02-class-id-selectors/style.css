@@ -1,0 +1,22 @@
+.one,
+.three,
+.five{
+    background-color: rgb(243, 165, 165);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.three{
+    font-size: 28px;
+}
+
+#IdOne{
+    color: blue;
+    font-size: 36px;
+
+}
+
+#IdTwo{
+    background-color: #89ee89;
+    font-size: 24px;
+    font-weight: bold;
+}
